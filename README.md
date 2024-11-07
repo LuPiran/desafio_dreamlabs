@@ -25,8 +25,8 @@ Este aplicativo utiliza a seguinte API pública para obter dados dos posts:
 <a href="https://jsonplaceholder.typicode.com/posts">https://jsonplaceholder.typicode.com/posts</a>
 
 ##  📲 Como Funciona
-1* Tela Inicial: Ao abrir o aplicativo, é feita uma requisição à API e uma lista de posts é exibida em um ListView.
-2* Navegação para Detalhes: Ao tocar em um item da lista, o usuário é levado a uma tela de detalhes (PostDetailPage), que exibe o título e o corpo do post selecionado.
+* 1) Tela Inicial: Ao abrir o aplicativo, é feita uma requisição à API e uma lista de posts é exibida em um ListView.
+* 2) Navegação para Detalhes: Ao tocar em um item da lista, o usuário é levado a uma tela de detalhes (PostDetailPage), que exibe o título e o corpo do post selecionado.
 
 ## 📸 Capturas de Tela
 
