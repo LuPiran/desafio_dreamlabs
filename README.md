@@ -35,7 +35,7 @@ Este aplicativo utiliza a seguinte API pública para obter dados dos posts:
   - [home_page.dart](lib/home_page.dart): Tela inicial com a listagem dos posts.
   - [api_service.dart](lib/api_service.dart): Serviço de comunicação com a API.
   - [post.dart](lib/post.dart): Modelo de dados para os posts.
-  - [post_detail_page.dart](lib/post_detail_page.dart): Tela de detalhes dos posts.
+  - [post_detalhe_page.dart](lib/post_detalhe_page.dart): Tela de detalhes dos posts.
 
 ## 📸 Capturas de Tela
 
