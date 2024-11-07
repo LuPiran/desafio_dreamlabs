@@ -28,6 +28,15 @@ Este aplicativo utiliza a seguinte API pública para obter dados dos posts:
 *  Tela Inicial: Ao abrir o aplicativo, é feita uma requisição à API e uma lista de posts é exibida em um ListView.
 * Navegação para Detalhes: Ao tocar em um item da lista, o usuário é levado a uma tela de detalhes (PostDetailPage), que exibe o título e o corpo do post selecionado.
 
+## 📂 Estrutura de Pastas
+
+- [lib/](lib)
+  - [main.dart](lib/main.dart): Ponto de entrada do app.
+  - [home_page.dart](lib/home_page.dart): Tela inicial com a listagem dos posts.
+  - [api_service.dart](lib/api_service.dart): Serviço de comunicação com a API.
+  - [post.dart](lib/post.dart): Modelo de dados para os posts.
+  - [post_detail_page.dart](lib/post_detail_page.dart): Tela de detalhes dos posts.
+
 ## 📸 Capturas de Tela
 
 ### Tela Home e Tela Detalhe
