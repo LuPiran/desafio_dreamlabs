@@ -33,8 +33,8 @@ Este aplicativo utiliza a seguinte API pública para obter dados dos posts:
 ### Tela Home e Tela Detalhe
 
 <p align="center">
-  <img src="./screenshot/tela_home.png" alt="Tela de Login" width="200" />
-  <img src="./assets/tela_detalhe.png" alt="Tela de Cadastro" width="200" />
+  <img src="./screenshot/tela_home.png" alt="Tela da Home" width="200" />
+  <img src="./screenshot/tela_detalhe.png" alt="Tela de Detalhe" width="200" />
 </p>
 
 
